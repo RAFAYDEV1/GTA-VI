@@ -137,14 +137,14 @@ function App() {
             </div>
           </div>
           <div className='imagesdiv w-full h-screen relative'>
-            <img className='sky w-full h-full object-cover absolute scale-1' src="/public/sky.png" alt="" />
-            <img className='bg w-full h-full object-cover absolute scale-1' src="/public/bg.png" alt="" />
+            <img className='sky w-full h-full object-cover absolute scale-1' src="/sky.png" alt="" />
+            <img className='bg w-full h-full object-cover absolute scale-1' src="/bg.png" alt="" />
             <div className='text flex flex-col gap-4 text-9xl absolute top-10 left-1/2 -translate-x-1/2 text-white'>
             <h1 className='-ml-20'>Grand</h1>
             <h1 className='ml-20'>Theft</h1>
             <h1 className='-ml-20'>Auto</h1>
           </div>
-            <img className='absolute -bottom-[35%] left-1/2 -translate-x-1/2 h-full' src="/public/girlbg.png" alt="" />
+            <img className='absolute -bottom-[35%] left-1/2 -translate-x-1/2 h-full' src="/girlbg.png" alt="" />
           </div>
           <div className="bottombar w-full py-10 px-10 absolute bottom-0 left-0 bg-gradient-to-t from-black to-transparent">
             <img className='absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 h-[35px]' src="/public/ps5.png" alt="" />
